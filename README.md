@@ -42,6 +42,7 @@ Trainable params: 5,179,201
 Non-trainable params: 0
 _________________________________________________________________
 ```
+The model scored 84.14% accuracy
 
 ## Model Implementation
 
