@@ -46,6 +46,6 @@ The model scored 84.14% accuracy
 
 ## Model Implementation
 
-The models were saved and now they are ready to get texted on real prompts.
+The models were saved and now they are ready to get tested on real prompts.
 
 Head over to [this Colab notebook](https://colab.research.google.com/drive/13rnnhbheW96ycWDNxZeq8oyF0cJKiuh5?usp=sharing) to test your own prompts!
