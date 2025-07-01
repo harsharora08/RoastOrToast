@@ -48,4 +48,4 @@ The model scored 84.14% accuracy
 
 The models were saved and now they are ready to get tested on real prompts.
 
-Head over to [this Colab notebook](https://colab.research.google.com/drive/13rnnhbheW96ycWDNxZeq8oyF0cJKiuh5?usp=sharing) to test your own prompts!
+Head over to [this Streamlit page](https://roastortoast.streamlit.app/) to test your own prompts!
